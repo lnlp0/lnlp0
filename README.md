@@ -1,8 +1,14 @@
 ## 안녕하세요 👋 안드로이드 개발자 차동규입니다. 
 
+
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{lnlp0}?pet-id=1" width="1000" height="120"/>
+  <img
+    src="https://render.gitanimals.org/lines/lnlp0"
+    width="600"
+    height="120"
+  />
 </a>
+  
 <!--
 **lnlp0/lnlp0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
