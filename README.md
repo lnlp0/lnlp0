@@ -10,10 +10,6 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=lnlp0&show_icons=true&theme=default" height="150px;" /> 
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lnlp" height="150px"/>
 </div>
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnlp0&layout=compact" height="120px;" />
-</div>
-
 
 
 
