@@ -1,8 +1,12 @@
 
 <div align="center">
 	<h2> 안녕하세요👋 안드로이드 개발자 차동규입니다. </h2>
-	<a href="https://github.com/devxb/gitanimals">
-  		<img src="https://render.gitanimals.org/lines/{lnlp0}?pet-id=1" width="1000" height="120"/>
+	<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=lnlp0&utm_content=farm">
+		<img
+  			src="https://render.gitanimals.org/farms/lnlp0"
+ 		 	width="600"
+  			height="300"
+		/>
 	</a>
 </div>
 <div align="center">
