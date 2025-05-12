@@ -3,11 +3,11 @@
 	<h2> 안녕하세요👋 안드로이드 개발자 차동규입니다. </h2>
 	<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=lnlp0&utm_content=line">
 	  <img
-	    src="https://render.gitanimals.org/lines/lnlp0?pet-id=700672613760215237"
+	    src="https://render.gitanimals.org/lines/lnlp0?pet-id=702731448438037538"
 	    width="600"
 	    height="120"
 	  />
-	</a>
+	</a>  
 </div>
 <div align="center">
 	<hr width="720px;" />
