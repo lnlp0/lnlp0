@@ -1,7 +1,6 @@
 
 <div align="center">
 	<h2> 안녕하세요👋 프론트엔드 개발자 차동규입니다. </h2>
-	<br>
 	<h2>Hello👋 I am Donggyu Cha, a Front-end developer. </h2>
 	<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=lnlp0&utm_content=line">
 	  <img
