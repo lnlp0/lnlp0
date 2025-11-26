@@ -89,4 +89,4 @@
 - GitHub: https://github.com/lnlp0
 - Email: me@lnlp.dev
 - Site: https://lnlp.dev
-- Discord: @lnlp_
+- Discord: [@lnlp_](https://discord.com/users/679540265312059393)
