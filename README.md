@@ -13,9 +13,11 @@
 <br>
 
 ## 👋 About Me
+
 - 매일 새로운 도전을 즐기며 성장하는 개발자 차동규입니다.
-- React & TypeScript 기반의 웹 애플리케이션 개발을 중심으로 학습하고 있습니다.
-- 사용성 높은 UI와 구조적인 코드 작성에 관심이 많으며, 새로운 기술을 실습 프로젝트에 적극 적용하고 있습니다.
+- 웹과 앱 전반에 걸쳐 사용자 경험을 중심으로 개발하는 프론트엔드 기반 앱 개발자입니다.
+- 새로운 기술을 빠르게 익히고 실제 프로젝트에 적용하는 것을 즐깁니다.
+
 <br>
 
 ## 🛠 Tech Stack
@@ -47,6 +49,7 @@
 	<img src="https://img.shields.io/badge/expo-000020.svg?&style=for-the-badge&logo=expo&logoColor=white" />
 	<img src="https://img.shields.io/badge/android-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white" />
 	<img src="https://img.shields.io/badge/jetpack%20compose-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white" />
+	<img src="https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
 </span>
 
 ### Backend & DB
