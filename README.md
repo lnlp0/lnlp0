@@ -82,7 +82,7 @@
 <br>
 
 ## 🧩 Algorithm
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lnlp" height="150px"/>
+[<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lnlp" height="150px"/>](https://solved.ac/profile/lnlp)
 <br>
 
 ## 📫 Contact
