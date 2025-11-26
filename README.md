@@ -62,7 +62,6 @@
 	<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
 	<img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
 	<img src="https://img.shields.io/badge/postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
-	<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </span>
 <br>
 
@@ -90,3 +89,4 @@
 - GitHub: https://github.com/lnlp0
 - Email: me@lnlp.dev
 - Site: https://lnlp.dev
+- Discord: @lnlp_
