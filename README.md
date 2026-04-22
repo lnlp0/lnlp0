@@ -14,9 +14,11 @@
 
 ## 👋 About Me
 
-- UI로 세상을 보고 UX로 이해하는 프론트엔드 개발자 차동규입니다.
-- 웹과 앱 전반에 걸쳐 사용자 경험을 중심으로 개발하는 프론트엔드 기반 앱 개발자입니다.
-- 새로운 기술을 빠르게 익히고 실제 프로젝트에 적용하는 것을 즐깁니다.
+변화 속에서도 기회를 발견하고, 더 나은 경험을 만들기 위해 고민하는 개발자 차동규입니다.
+다양한 프로젝트에서 React와 TypeScript로 주로 프론트엔드 개발을 했으며, 
+서비스 기획 / 디자인 / 퍼블리싱 / 기능구현 / 협업 경험이 있습니다.
+저는 사용자에게 잘 만든 UI는 보이고, 잘 만든 UX는 보이지 않는다고 생각합니다. 
+그 보이지 않는 경험을 설계하고 개선하는 개발자가 되고 싶습니다.
 
 <br>
 
@@ -24,8 +26,8 @@
 
 ### Language
 <span>
-	<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 	<img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+	<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 	<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
 	<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
@@ -33,13 +35,13 @@
 
 ### Frontend
 <span>
-	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-	<img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 	<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
-	<img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/vite-646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white" />
 	<img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" />
 	<img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
+	<img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
+	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+	<img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 </span>
 
 ### App
